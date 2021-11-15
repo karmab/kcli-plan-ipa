@@ -1,0 +1,4 @@
+- name: ipa
+  file: upstream.yml
+  description: Upstream ipa
+  numvms: 1
